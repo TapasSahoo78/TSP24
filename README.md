@@ -3,7 +3,7 @@
 
 <!-- Add Cover Photo -->
 <p align="center">
-  <img src="https://your-cover-photo-url-here" alt="Cover Photo" style="width:100%; height:auto;" />
+  <img src="https://github.com/TapasSahoo78/TapasSahoo78/blob/main/TAPAS%20SAHOO.png?raw=true" alt="Cover Photo" style="width:100%; height:auto;" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapassahoo78&label=Profile%20views&color=0e75b6&style=flat" alt="tapassahoo78" /> </p>
